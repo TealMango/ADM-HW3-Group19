@@ -1,0 +1,7 @@
+urls.txt
+HTML/
+tsv_files/
+inverted_index.json
+README.md
+vocabulary.csv
+.DS_Store
