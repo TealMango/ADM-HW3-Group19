@@ -15,7 +15,7 @@ Project
 
 The file holding the answers is available as [main.ipynb](https://github.com/TealMango/ADM-HW3-Group19/blob/main/main.ipynb).
 
-**⚠️Please download the repository to visualize all the content correctly.**
+**⚠️ Please download the repository to visualize all the content correctly.**
 
 | Contributors                                                   |
 |----------------------------------------------------------------|
