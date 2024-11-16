@@ -9,9 +9,9 @@ Project
 ├── README.md         
 ├── main.ipynb            
 ├── Image                            
-│   ├── counterexample_1.png             
-│   ├── counterexample_2.png  
-│   └── counterexample_3.png          
+│  ├── counterexample_1.png             
+│  ├── counterexample_2.png  
+│  └── counterexample_3.png          
 └──    
 The file holding the answers is available as [main.ipynb](https://github.com/TealMango/ADM-HW3-Group19/blob/main/main.ipynb).
 
