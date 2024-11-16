@@ -5,6 +5,7 @@ This repository contains the answers to **Homework 3** of the class **ADM**. Det
 Specially, the file structure is as follows:
          
 Project
+
 ├── README.md 
 ├── main.ipynb   
 ├── Image                   
