@@ -7,7 +7,7 @@ Specially, the file structure is as follows:
 Project       
 ├── README.md         
 ├── main.ipynb            
-├── Image                            
+├── image                            
     ├── counterexample_1.png             
     ├── counterexample_2.png  
     └── counterexample_3.png     
