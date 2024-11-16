@@ -5,10 +5,10 @@ This repository contains the answers to **Homework 3** of the class **ADM**. Det
 Specially, the file structure is as follows:
          
 Project
-
-├── README.md 
-├── main.ipynb   
-├── Image                   
+         
+├── README.md         
+├── main.ipynb            
+├── Image                            
 │   ├── counterexample_1.png             
 │   ├── counterexample_2.png  
 │   └── counterexample_3.png          
